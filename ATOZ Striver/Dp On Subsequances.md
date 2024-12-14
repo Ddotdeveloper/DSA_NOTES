@@ -1,4 +1,8 @@
+### Subset Sum Problem 
+
 ![](at/Pasted%20image%2020241214230030.png)
+
+
 - it is the normal question for the but the tabulation Code will teach thing very important 
 #### The Memoization Code 
 ```c++
@@ -37,8 +41,13 @@ if i>=n means no element are there so it will give false in every situation as n
 solve(ind,0) return true // in any situation at any value of ind 
 
 ###### Rec Cases Expalin 
-Explain the pick vala case why if and pick is false by default 
+=> Explain the pick vala case why if and pick is false by default 
 - neg isliye nhi jane diya cause fydah nhi haii kuch cause sare number postive haii ek baar target < 0 ho gya toh uspe koi chance nhi positive hone ka 
-- bool is like kya pta true de de but by default toh false hi manna padega na usse true man lenge toh dikkat haii jiss case mai utha hi ni skte usse voh toh false hi dega na 
-- agar true dega toh not pick vala case smbhal hi lega na tuje kya dikkat usse 
+- bool is like kya pta true de de but by default toh false hi manna padega na usse true man lenge toh dikkat haii jiss case mai utha hi ni skte usse voh toh false hi dega na  agar true dega toh not pick vala case smbhal hi lega na tuje kya dikkat usse not pick vala true la hi dega bdhia saii 
+=> return explain 
+- return mai dono ka or le liye cause koi ek bhi true dega toh voh vala pura true hi dega state i mean pick or noPick dono maii saii koii bhi true hoga toh true lena usse bhiii 
+#### Tabulation Code 
 
+                 dp[ind][target] repersents -> i repersents 0 to i and target is 
+		         achieavable or not that is 
+		         dp[ind][target] gives the bool value 
