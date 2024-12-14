@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "d585f0d7a163121b",
+    "type": "split",
+    "children": [
+      {
+        "id": "206b11792abaecbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832390dffee5c1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATOZ Striver/Dp On Subsequances.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dp On Subsequances"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bb61f8d28d71dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "059c040b585f4f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "609e4737de90a369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a8bc280f61591ba4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6a30bab1c4e608c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe3a52395d57f6f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "29419a4d77a893bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14867b5c3b4aa5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graph/Sde Graph/Graph Part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Graph Part 1"
+            }
+          },
+          {
+            "id": "618e92aa9aeb71c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Graph/Sde Graph/Graph Part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Graph Part 1"
+            }
+          },
+          {
+            "id": "da22e56c1cfc9b09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fb99d8625e26145",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graph/Sde Graph/Graph Part 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Graph Part 1"
+            }
+          },
+          {
+            "id": "4220fb1bdcf45397",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "832390dffee5c1ff",
+  "lastOpenFiles": [
+    "Pasted image 20241214165853.png",
+    "Pasted image 20241214165543.png",
+    "ATOZ Striver/Dp On Subsequances.md",
+    "Pasted image 20241214165658.png",
+    "Pasted image 20241214165614.png",
+    "ATOZ Striver/ATOZ (Screen Shots )",
+    "Questions 1.png",
+    "Question on Partion of subsequance.png",
+    "ATOZ Striver",
+    "Graph/Sde Graph/Graph Part 1.md",
+    "Dp/DP on Grids.md",
+    "12.30 to 3.30 am.md",
+    "Dp",
+    "Graph/Graph Algo's/Bellmanford algo.md",
+    "Graph/Graph Algo's/DisJoint Sets (DSU) Graphs.md",
+    "Graph/Graph Algo's/Detect a cycle using the bfs and dfs.md",
+    "Dsa Interview Questions (Imp Vale)",
+    "Graph/Untitled.md",
+    "Graph/Graph Algo's",
+    "Graph/Graph Algo's/Dijkstra's Algo.md",
+    "Trees/Medium Questions Tree.md",
+    "Trees/Medium Questions Imp vale.md",
+    "Images/Pasted image 20240818182340.png",
+    "2024-10-04.md",
+    "Pods (LeetCode).md",
+    "Images/Pasted image 20241015143525.png",
+    "Images/Pasted image 20241015140646.png",
+    "Graph/Sde Graph",
+    "Images/Pasted image 20241008001606.png",
+    "Images/Pasted image 20240724002813.png",
+    "Graph/Graph Algo's/Priority queue vala topics.md",
+    "Graph/Graph Algo's/Topo Sort.md",
+    "Trees",
+    "Images",
+    "Welcome.md",
+    "Graph"
+  ]
+}
